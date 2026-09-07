@@ -1,0 +1,7 @@
+A=float(input("Enter the value of A: "))
+B=float(input("Enter the value of B: "))
+print("The sum of A and B is:", A + B)
+print("The difference of A and B is:", A - B)
+print("The product of A and B is:", A * B)
+print("The division of A and B is:", A / B)
+print("The modulus of A and B is:", A % B)
